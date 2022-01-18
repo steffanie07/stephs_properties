@@ -1,0 +1,20 @@
+{
+    "name": "Stephanie",
+    "description": "Tech Trial ",
+    "license": "GNL",
+    "authors": [
+        {
+            "name": "Stephanie Boms",
+            "email": "steffanie07@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    },
+    "autoload":{
+        "psr-4":{
+            "App\\":"./system"
+        }
+    }
+
+}
