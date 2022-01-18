@@ -14,5 +14,5 @@
 
  # If I had more time ...
  I would tidy up the UI,  but most of all focus on the filters on the index page.
- Currently the appliction has a single search bar that filters through all the parameters but what should be done is an 
+ Currently the application has a single search bar that filters through all the parameters but what should be done is an 
  inline form with several input fields which include dropdowns to allow for a better filtering experience. 
